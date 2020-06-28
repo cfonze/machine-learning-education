@@ -12,3 +12,4 @@ A list of free machine learning education links
 ## Data Science and ML Resources
 * [STANFORD CENTER FOR PROFESSIONAL DEVELOPMENT AI RESOURCE HUB](http://onlinehub.stanford.edu/)
 * [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
+* [AtHomeWithAI - A list of educational resources curated by DeepMind Scientists and Engineers](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
