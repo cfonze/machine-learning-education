@@ -6,7 +6,7 @@ A list of free machine learning education links
 
 ## Machine learning with Python
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg)
-* [Practical Deep Learning for Coders](https://course.fast.ai), from [fast.ai](https://www.fast.ai)
+* [Deep Learning for Coders with fastai and PyTorch](https://course.fast.ai/), from [fast.ai](https://www.fast.ai)
 * [MIT 6.S191 - Introduction to Deep Learning](http://introtodeeplearning.com)
 
 ## Data Science and ML Resources
